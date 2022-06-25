@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-![ ](11.png)
+![ ](https://user-images.githubusercontent.com/99985636/175791767-56281827-3a18-455e-a968-927e47ec12de.png)
 bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
