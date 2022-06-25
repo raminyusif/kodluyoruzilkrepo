@@ -4,7 +4,7 @@ bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
- https://github.com/raminyusif/kodluyoruzilkrepo.git
+ git clone https://github.com/raminyusif/kodluyoruzilkrepo.git
 ```
  
 # Usage
@@ -19,4 +19,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
